@@ -10,4 +10,4 @@ Here is a tutorial repository based on [Learn Next.js](https://nextjs.org/learn)
 
 ## Notes
 
-On 2021/08/08: You meet an issue about ESModule included in `remark` if you install remark (>=14.0.0).
+On 2021/08/08: You meet an issue about ESModule included in `remark` if you install `remark` **(>=14.0.0)**.
